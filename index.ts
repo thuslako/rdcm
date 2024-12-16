@@ -61,4 +61,4 @@ module.exports = {
   generateComponentMap
 };
 
-generateComponentMap("./hw-admin/app/javascript");
+generateComponentMap("./project/app/javascript");
